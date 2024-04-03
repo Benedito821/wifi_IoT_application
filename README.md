@@ -9,7 +9,7 @@ After downloading the project, build,flash and monitor it. Used resources/tools:
 
 # Connection Scheme
 
-
+![](https://github.com/Benedito821/wifi_IoT_application/blob/master/scheme.png)
 
 # Demo
 
