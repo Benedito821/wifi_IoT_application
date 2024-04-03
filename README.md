@@ -13,4 +13,4 @@ After downloading the project, build,flash and monitor it. Used resources/tools:
 
 # Demo
 
-![](https://github.com/Benedito821/wifi_IoT_application/blob/master/demo.gif)
+![](https://github.com/Benedito821/wifi_IoT_application/blob/master/Demo.gif)
