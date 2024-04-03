@@ -27,7 +27,7 @@ static void sntp_time_sync_init_sntp(void)
 		sntp_op_mode_set = true;
 	}
 
-	sntp_setservername(0, "ntp0.ntp-servers.net");
+	sntp_setservername(0, "ru.pool.ntp.org");
 
 	// Initialize the servers
 	sntp_init();

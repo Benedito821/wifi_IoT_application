@@ -10,7 +10,7 @@ typedef void (*wifi_connected_event_callback_t)(void);
 
 //wi-fi application settings
 #define WIFI_AP_SSID                "ESP32_OF_BENEDITO"
-#define WIFI_AP_PASSWORD            "BjttV20"
+#define WIFI_AP_PASSWORD            "Bjohn513"
 #define WIFI_AP_CHANNEL             1
 #define WIFI_AP_SSID_HIDDEN         0
 #define WIFI_APP_MAX_CONNECTIONS    5
